@@ -65,12 +65,12 @@ test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 # Модель, оптимизатор и функция потерь
 model = CNN_Model()
 optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=1e-4)
-criterion = nn.BCEWithLogitsLoss()
+loss_func = nn.BCEWithLogitsLoss()
 
 
 # Функция для обучения модели
 train_losses = []  # Список для хранения значений loss
-def train(model, train_loader, criterion, optimizer, epochs):
+def train(model, train_loader, loss_func, optimizer, epochs):
     model.train()
     for epoch in range(epochs):
         running_loss = 0.0
@@ -81,7 +81,7 @@ def train(model, train_loader, criterion, optimizer, epochs):
             optimizer.zero_grad()
 
             logits = model(images).squeeze(1)
-            loss = criterion(logits, labels.float())
+            loss = loss_func(logits, labels.float())
 
             loss.backward()
             optimizer.step()
@@ -117,7 +117,7 @@ def evaluate(model, test_loader):
     print(f"Test Accuracy: {acc:.2f}%")
 
 # Обучаем модель
-train(model, train_loader, criterion, optimizer, epochs)
+train(model, train_loader, loss_func, optimizer, epochs)
 
 # Оцениваем модель на тестовых данных
 evaluate(model, test_loader)
