@@ -1,0 +1,157 @@
+[
+    {
+        "patient": "Костицина",
+        "class": 0,
+        "image": "train/healthy/Костицина.png"
+    },
+    {
+        "patient": "Липатова",
+        "class": 0,
+        "image": "train/healthy/Липатова.png"
+    },
+    {
+        "patient": "Лямина",
+        "class": 0,
+        "image": "train/healthy/Лямина.png"
+    },
+    {
+        "patient": "Мальсачов",
+        "class": 0,
+        "image": "train/healthy/Мальсачов.png"
+    },
+    {
+        "patient": "Меруовский",
+        "class": 0,
+        "image": "train/healthy/Меруовский.png"
+    },
+    {
+        "patient": "Михайлов",
+        "class": 0,
+        "image": "train/healthy/Михайлов.png"
+    },
+    {
+        "patient": "Назарова",
+        "class": 0,
+        "image": "train/healthy/Назарова.png"
+    },
+    {
+        "patient": "Полякова",
+        "class": 0,
+        "image": "train/healthy/Полякова.png"
+    },
+    {
+        "patient": "Рагрин",
+        "class": 0,
+        "image": "train/healthy/Рагрин.png"
+    },
+    {
+        "patient": "Скородумов",
+        "class": 0,
+        "image": "train/healthy/Скородумов.png"
+    },
+    {
+        "patient": "Стайко",
+        "class": 0,
+        "image": "train/healthy/Стайко.png"
+    },
+    {
+        "patient": "Шантуров",
+        "class": 0,
+        "image": "train/healthy/Шантуров.png"
+    },
+    {
+        "patient": "Шарифуллин",
+        "class": 0,
+        "image": "train/healthy/Шарифуллин.png"
+    },
+    {
+        "patient": "Маляревский",
+        "class": 1,
+        "image": "train/sick/Маляревский.png"
+    },
+    {
+        "patient": "Машурчак",
+        "class": 1,
+        "image": "train/sick/Машурчак.png"
+    },
+    {
+        "patient": "Менделеев",
+        "class": 1,
+        "image": "train/sick/Менделеев.png"
+    },
+    {
+        "patient": "Новоженин",
+        "class": 1,
+        "image": "train/sick/Новоженин.png"
+    },
+    {
+        "patient": "Пащенко",
+        "class": 1,
+        "image": "train/sick/Пащенко.png"
+    },
+    {
+        "patient": "Петров",
+        "class": 1,
+        "image": "train/sick/Петров.png"
+    },
+    {
+        "patient": "Попов",
+        "class": 1,
+        "image": "train/sick/Попов.png"
+    },
+    {
+        "patient": "Самедов",
+        "class": 1,
+        "image": "train/sick/Самедов.png"
+    },
+    {
+        "patient": "Сидибе",
+        "class": 1,
+        "image": "train/sick/Сидибе.png"
+    },
+    {
+        "patient": "Симонов",
+        "class": 1,
+        "image": "train/sick/Симонов.png"
+    },
+    {
+        "patient": "Скачков",
+        "class": 1,
+        "image": "train/sick/Скачков.png"
+    },
+    {
+        "patient": "Соловьёв",
+        "class": 1,
+        "image": "train/sick/Соловьёв.png"
+    },
+    {
+        "patient": "Соловьёва",
+        "class": 1,
+        "image": "train/sick/Соловьёва.png"
+    },
+    {
+        "patient": "Тульчинский",
+        "class": 1,
+        "image": "train/sick/Тульчинский.png"
+    },
+    {
+        "patient": "Хазимов",
+        "class": 1,
+        "image": "train/sick/Хазимов.png"
+    },
+    {
+        "patient": "Хасбулатов",
+        "class": 1,
+        "image": "train/sick/Хасбулатов.png"
+    },
+    {
+        "patient": "Чертков",
+        "class": 1,
+        "image": "train/sick/Чертков.png"
+    },
+    {
+        "patient": "Шурпатов",
+        "class": 1,
+        "image": "train/sick/Шурпатов.png"
+    }
+]
