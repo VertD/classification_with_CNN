@@ -1,0 +1,222 @@
+[
+    {
+        "patient": "Абдуллаева",
+        "class": 0,
+        "tensor": "train/healthy/Абдуллаева.pt"
+    },
+    {
+        "patient": "Александров",
+        "class": 0,
+        "tensor": "train/healthy/Александров.pt"
+    },
+    {
+        "patient": "Буй",
+        "class": 0,
+        "tensor": "train/healthy/Буй.pt"
+    },
+    {
+        "patient": "Василин",
+        "class": 0,
+        "tensor": "train/healthy/Василин.pt"
+    },
+    {
+        "patient": "Вековшинин",
+        "class": 0,
+        "tensor": "train/healthy/Вековшинин.pt"
+    },
+    {
+        "patient": "Глебов",
+        "class": 0,
+        "tensor": "train/healthy/Глебов.pt"
+    },
+    {
+        "patient": "Головков",
+        "class": 0,
+        "tensor": "train/healthy/Головков.pt"
+    },
+    {
+        "patient": "Горев",
+        "class": 0,
+        "tensor": "train/healthy/Горев.pt"
+    },
+    {
+        "patient": "Горягин",
+        "class": 0,
+        "tensor": "train/healthy/Горягин.pt"
+    },
+    {
+        "patient": "Звягина",
+        "class": 0,
+        "tensor": "train/healthy/Звягина.pt"
+    },
+    {
+        "patient": "Киселев",
+        "class": 0,
+        "tensor": "train/healthy/Киселев.pt"
+    },
+    {
+        "patient": "Косолапов",
+        "class": 0,
+        "tensor": "train/healthy/Косолапов.pt"
+    },
+    {
+        "patient": "Костицина",
+        "class": 0,
+        "tensor": "train/healthy/Костицина.pt"
+    },
+    {
+        "patient": "Липатова",
+        "class": 0,
+        "tensor": "train/healthy/Липатова.pt"
+    },
+    {
+        "patient": "Лямина",
+        "class": 0,
+        "tensor": "train/healthy/Лямина.pt"
+    },
+    {
+        "patient": "Мальсачов",
+        "class": 0,
+        "tensor": "train/healthy/Мальсачов.pt"
+    },
+    {
+        "patient": "Меруовский",
+        "class": 0,
+        "tensor": "train/healthy/Меруовский.pt"
+    },
+    {
+        "patient": "Михайлов",
+        "class": 0,
+        "tensor": "train/healthy/Михайлов.pt"
+    },
+    {
+        "patient": "Ахматов",
+        "class": 1,
+        "tensor": "train/sick/Ахматов.pt"
+    },
+    {
+        "patient": "Бажин",
+        "class": 1,
+        "tensor": "train/sick/Бажин.pt"
+    },
+    {
+        "patient": "Белов",
+        "class": 1,
+        "tensor": "train/sick/Белов.pt"
+    },
+    {
+        "patient": "Белоусов",
+        "class": 1,
+        "tensor": "train/sick/Белоусов.pt"
+    },
+    {
+        "patient": "Буйняков",
+        "class": 1,
+        "tensor": "train/sick/Буйняков.pt"
+    },
+    {
+        "patient": "Воронцов",
+        "class": 1,
+        "tensor": "train/sick/Воронцов.pt"
+    },
+    {
+        "patient": "Грязнов",
+        "class": 1,
+        "tensor": "train/sick/Грязнов.pt"
+    },
+    {
+        "patient": "Джумбиев",
+        "class": 1,
+        "tensor": "train/sick/Джумбиев.pt"
+    },
+    {
+        "patient": "Дзядковский",
+        "class": 1,
+        "tensor": "train/sick/Дзядковский.pt"
+    },
+    {
+        "patient": "Иванов",
+        "class": 1,
+        "tensor": "train/sick/Иванов.pt"
+    },
+    {
+        "patient": "Карельский",
+        "class": 1,
+        "tensor": "train/sick/Карельский.pt"
+    },
+    {
+        "patient": "Коваленко",
+        "class": 1,
+        "tensor": "train/sick/Коваленко.pt"
+    },
+    {
+        "patient": "Колесник",
+        "class": 1,
+        "tensor": "train/sick/Колесник.pt"
+    },
+    {
+        "patient": "Котов",
+        "class": 1,
+        "tensor": "train/sick/Котов.pt"
+    },
+    {
+        "patient": "Кочерин",
+        "class": 1,
+        "tensor": "train/sick/Кочерин.pt"
+    },
+    {
+        "patient": "Куманин",
+        "class": 1,
+        "tensor": "train/sick/Куманин.pt"
+    },
+    {
+        "patient": "Липатов",
+        "class": 1,
+        "tensor": "train/sick/Липатов.pt"
+    },
+    {
+        "patient": "Маляревский",
+        "class": 1,
+        "tensor": "train/sick/Маляревский.pt"
+    },
+    {
+        "patient": "Машурчак",
+        "class": 1,
+        "tensor": "train/sick/Машурчак.pt"
+    },
+    {
+        "patient": "Менделеев",
+        "class": 1,
+        "tensor": "train/sick/Менделеев.pt"
+    },
+    {
+        "patient": "Новоженин",
+        "class": 1,
+        "tensor": "train/sick/Новоженин.pt"
+    },
+    {
+        "patient": "Пащенко",
+        "class": 1,
+        "tensor": "train/sick/Пащенко.pt"
+    },
+    {
+        "patient": "Петров",
+        "class": 1,
+        "tensor": "train/sick/Петров.pt"
+    },
+    {
+        "patient": "Попов",
+        "class": 1,
+        "tensor": "train/sick/Попов.pt"
+    },
+    {
+        "patient": "Самедов",
+        "class": 1,
+        "tensor": "train/sick/Самедов.pt"
+    },
+    {
+        "patient": "Юань",
+        "class": 1,
+        "tensor": "train/sick/Юань.pt"
+    }
+]

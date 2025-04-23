@@ -1,0 +1,87 @@
+[
+    {
+        "patient": "Назарова",
+        "class": 0,
+        "tensor": "test/healthy/Назарова.pt"
+    },
+    {
+        "patient": "Полякова",
+        "class": 0,
+        "tensor": "test/healthy/Полякова.pt"
+    },
+    {
+        "patient": "Рагрин",
+        "class": 0,
+        "tensor": "test/healthy/Рагрин.pt"
+    },
+    {
+        "patient": "Скородумов",
+        "class": 0,
+        "tensor": "test/healthy/Скородумов.pt"
+    },
+    {
+        "patient": "Стайко",
+        "class": 0,
+        "tensor": "test/healthy/Стайко.pt"
+    },
+    {
+        "patient": "Шантуров",
+        "class": 0,
+        "tensor": "test/healthy/Шантуров.pt"
+    },
+    {
+        "patient": "Шарифуллин",
+        "class": 0,
+        "tensor": "test/healthy/Шарифуллин.pt"
+    },
+    {
+        "patient": "Сидибе",
+        "class": 1,
+        "tensor": "test/sick/Сидибе.pt"
+    },
+    {
+        "patient": "Симонов",
+        "class": 1,
+        "tensor": "test/sick/Симонов.pt"
+    },
+    {
+        "patient": "Скачков",
+        "class": 1,
+        "tensor": "test/sick/Скачков.pt"
+    },
+    {
+        "patient": "Соловьёв",
+        "class": 1,
+        "tensor": "test/sick/Соловьёв.pt"
+    },
+    {
+        "patient": "Соловьёва",
+        "class": 1,
+        "tensor": "test/sick/Соловьёва.pt"
+    },
+    {
+        "patient": "Тульчинский",
+        "class": 1,
+        "tensor": "test/sick/Тульчинский.pt"
+    },
+    {
+        "patient": "Хазимов",
+        "class": 1,
+        "tensor": "test/sick/Хазимов.pt"
+    },
+    {
+        "patient": "Хасбулатов",
+        "class": 1,
+        "tensor": "test/sick/Хасбулатов.pt"
+    },
+    {
+        "patient": "Чертков",
+        "class": 1,
+        "tensor": "test/sick/Чертков.pt"
+    },
+    {
+        "patient": "Шурпатов",
+        "class": 1,
+        "tensor": "test/sick/Шурпатов.pt"
+    }
+]
